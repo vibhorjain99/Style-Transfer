@@ -1,7 +1,5 @@
 # Style Transfer 
 
-This is my attempt to implement style transfer to an image from an image with a particular style. 
-
 
 # Table of Contents
 
